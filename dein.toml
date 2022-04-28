@@ -1,0 +1,11 @@
+[[plugins]]
+repo = 'Shougo/dein.vim'
+
+[[plugins]]
+repo = 'vim-airline/vim-airline'
+
+[[plugins]]
+repo = 'ajmwagar/vim-deus'
+
+[[plugins]]
+repo = 'Yggdroot/indentLine'
